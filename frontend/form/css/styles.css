@@ -1,0 +1,21 @@
+body
+{
+    width:70%;
+    margin:0 auto;
+    background-color:#f9fdff;
+}
+h1
+{
+    color:#005fa1;
+}
+ul{
+    list-style-type: none !important;
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+th, td {
+    padding: 5px;
+    text-align: left;
+}
